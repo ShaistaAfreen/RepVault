@@ -1,0 +1,8 @@
+[package]
+name = "ReputationSystem"
+version = "0.0.1"
+
+[addresses]
+reputation = "0x1"
+
+[dependencies]
