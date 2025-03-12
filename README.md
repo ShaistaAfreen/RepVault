@@ -14,8 +14,7 @@ RepVault is a decentralized on-chain reputation system designed to track and ver
 
 ### Prerequisites
 
-- Rust programming language (version X.X.X)
-- Move programming language (version X.X.X)
+- Rust programming language (version  1.85.0)
 - Node.js and npm (for any front-end or integration tasks)
 - Git (for version control)
 
