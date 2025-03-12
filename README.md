@@ -9,10 +9,14 @@ RepVault is a decentralized on-chain reputation system designed to track and ver
 - Decentralized Reputation Tracking: Earn, manage, and share reputation scores without centralized authorities.
 - On-Chain Verification: All reputation data is stored on-chain, ensuring transparency and immutability.
 - User Credibility Metrics: Helps users establish trustworthiness within the Web3 ecosystem.
+  
+ ## Write Up - 
+ 
+  MSWORD -https://1drv.ms/w/c/ced8b6a7d8fc636b/EY_boUQUwtZNtQYhzxwv3iMBWZPhaicDXSQaLRA6Yq_OGw?e=zZAcmc
 
 ## UI DESIGN 
 
-DORA - https://www.dora.run/e/2052393?page=PMA8GcpkedO&copykey=e9f67909-07c8-46a8-8b35-65a0a97bebf0
+  DORA - https://www.dora.run/e/2052393?page=PMA8GcpkedO&copykey=e9f67909-07c8-46a8-8b35-65a0a97bebf0
   
 
 ## Getting Started
